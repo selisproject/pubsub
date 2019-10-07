@@ -1,0 +1,8 @@
+server/*.pyc
+server/app/*.pyc
+server/python-env
+server/db.sqlite
+server/.idea/misc.xml
+server/.idea/modules.xml
+server/.idea/server.iml
+server/.idea/workspace.xml
