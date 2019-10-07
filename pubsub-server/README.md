@@ -1,4 +1,4 @@
-The SELIS Publish-Subscribe (light open source version)
+The SELIS Publish-Subscribe (light)
 ===================
 This repository contains the minimalistic version of the SELIS Publish-Subscribe server. 
 This minimalistic version (we will refer to it as the SELIS Pub/Sub light) consists of 
@@ -66,10 +66,6 @@ git clone https://selis-gw.cslab.ece.ntua.gr/gitlab/selis/pubsub-clients
 ```
 We recommend to start from the JAVA exampe located in the `java/example` directory of the pubsub-clients repository.
 
-License
--------
-MIT
-
 Contact
 -------
-selis@cslab.ece.ntua.gr 
+selis-project@groups.tu-dresden.de

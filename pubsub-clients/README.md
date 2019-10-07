@@ -1,18 +1,10 @@
-TUD Pub-Sub clients
+The SELIS Publish/Subscribe client libraries
 ===================
 
 About
 -----
-This repository contains the client libraries of the TUD Pub-Sub component.
-
-Installation
-------------
-TBD
-
-License
--------
-TBD
+This repository contains the client libraries of the SELIS Publish/Subscribe service.
 
 Contact
 -------
-selis@cslab.ece.ntua.gr 
+selis-project@groups.tu-dresden.de
