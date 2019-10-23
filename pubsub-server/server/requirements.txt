@@ -15,7 +15,7 @@ SQLAlchemy==0.9.8
 Tempita==0.5.1
 Unidecode==0.04.16
 WTForms==1.0.4
-Werkzeug==0.10.0
+Werkzeug==0.15.3
 Whoosh==2.5.2
 alembic==0.6.7
 argparse==1.2.1
