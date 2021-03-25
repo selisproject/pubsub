@@ -10,7 +10,7 @@ Flask-WhooshAlchemy==0.54a
 Jinja2==2.7.1
 Mako==1.0.0
 MarkupSafe==0.18
-PyYAML==3.11
+PyYAML==5.4
 SQLAlchemy==0.9.8
 Tempita==0.5.1
 Unidecode==0.04.16
